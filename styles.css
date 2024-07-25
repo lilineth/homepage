@@ -13,8 +13,8 @@
     --secondary-text-color: #5c5c62;
     --durability-text-color: #6a737d9c;
     --icon-color: #6a737d;
-    --border-color: #ff9a0045;
-    --text-decoration-color: #ff9a00;
+    --border-color: #a0845a45;
+    --text-decoration-color: #574456;
   }
   
   .container {
@@ -124,8 +124,8 @@
 
 .contact-info__avatar {
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   object-fit: cover;
   border: 3px solid;
   border-color: var(--text-decoration-color);
